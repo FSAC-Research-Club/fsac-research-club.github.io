@@ -7,7 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  height: 250px
   more_info: 
 
 
@@ -66,4 +65,11 @@ The ability to communicate clearly is a cornerstone of impactful research.
 - **Design & Media Lead:** Hamza BOURRAKH  
 - **Human Resources Lead:** To be filled  
 - **Events Lead:** To be filled
+
+## Join Us!
+
+Interested in becoming a member of the **FSAC Research Club**?  
+Click below to fill out the registration form:
+
+👉 [Fill Out the Form](https://forms.gle/Q2yY3w1yFyYk2Mx29)
 
