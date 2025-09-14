@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Undergraduate in Biology & Biotechnology | 
-      Aspiring Cancer Genomics Researcher | Advocate for Health & Environmental Action  </a>
+subtitle: <a href='#'> Sapere aude  </a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,114 +25,45 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-  <div style="flex: 1; font-size: 1.1rem; line-height: 1.5;">
-    Hey there! I'm Omar, an undergraduate biology and biotechnology student with a deep passion for genetics, cancer biology, and bioinformatics. Beyond the lab, I enjoy volunteering, reading, composing music, and playing chess. Feel free to reach out if you'd like to chat about research, potential opportunities, or even just to swap book recommendations!
-  </div>
-</div>
-<div style="max-width: 90%; margin: auto;">
+# FSAC Research Club
 
-<div style="max-width: 90%; margin: auto; font-size: 0.95rem; line-height: 1.4;">
+## Objectives and Activities
+At the heart of our club’s mission is the commitment to promote scientific research skills, develop critical thinking, and foster a culture of reproducibility and open science. To achieve these objectives, we have defined several priority areas, along with examples of planned activities:
 
-  <!-- General Information -->
-  <h2 style="margin-top: 1.5rem;">General Information</h2>
-  <ul style="margin-left: 1rem;">
-    <li><strong>Full Name:</strong> Omar Moustafa Hassan El Atal</li>
-    <li><strong>Languages:</strong> Arabic (native), English (C2), French (B2)</li>
-    <li><strong>Location:</strong> Casablanca, Morocco</li>
-  </ul>
+### 1 – Develop scientific culture and research literacy
+Understanding how to read, analyze, and critique scientific papers is essential for training the next generation of researchers.
+- Biweekly journal club with presentations and group discussions.
+- Workshops on critical thinking and data interpretation, including analysis of biased papers to strengthen analytical skills.
+- Training in the use of scientific databases such as PubMed, Scopus, and Web of Science.
 
-  <!-- Education -->
-  <h2 style="margin-top: 1.5rem;">Education</h2>
-  <ul style="margin-left: 1rem;">
-    <li>
-      <strong>B.Sc. in Biology & Biotechnology</strong> — Faculté des Sciences Aïn Chock, Université Hassan II, (2023 – 2026 expected)
-      <ul style="margin-left: 1rem; list-style-type: circle;">
-        <li>Ranked 1st in Cell Biology out of 1500+ students</li>
-        <li>Semester GPAs: 14.72/20, 14.20/20, 14.18/20 (Mention Bien)</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Baccalauréat (Earth & Life Sciences, French Option)</strong> — Bir Anzarane High School, Casablanca (2020 – 2023)
-      <ul style="margin-left: 1rem; list-style-type: circle;">
-        <li>Excellence Award; student council representative</li>
-      </ul>
-    </li>
-  </ul>
+### 2 – Promote reproducibility and open science
+Mastering reproducible research practices is essential to ensure transparency and collaboration in modern science.
+- Hands-on workshops on GitHub, Jupyter Notebooks, and reproducible workflow best practices.
+- Introduction to reference managers (Zotero, Mendeley, EndNote) to facilitate the research process.
 
-  <!-- Research Experience -->
-  <h2 style="margin-top: 1.5rem;">Research Experience</h2>
-  <ul style="margin-left: 1rem;">
-    <li>
-      <strong>Co-author — Meta-analysis on Molecular Markers in Colorectal Cancer</strong> — Université Hassan II (April 2025 – Present)
-    </li>
-  </ul>
+### 3 – Develop digital and data analysis skills
+Proficiency with digital tools is increasingly crucial in academic and professional environments.
+- Introductory workshops on Linux, Bash, and Python for data analysis.
+- Accessible sessions on statistics and machine learning applied to science.
 
-  <!-- Internships -->
-  <h2 style="margin-top: 1.5rem;">Internships</h2>
-  <ul style="margin-left: 1rem;">
-    <li><strong>Intern — Oncology & Cell Therapy Laboratory</strong>, Institut Pasteur du Maroc (July 2025 – August 2025)</li>
-    <li><strong>Intern — Pathophysiology, Molecular Genetics & Biotechnology Laboratory</strong>, Faculté des Sciences Aïn Chock (March 2025 – July 2025)</li>
-  </ul>
+### 4 – Connect students to the research world
+Exposure to research environments and inspiring role models encourages students to pursue scientific careers.
+- Laboratory visits across various disciplines.
+- Partnerships with research teams for practical workshops and demonstrations.
+- Launch of a research appreciation day (poster session), mainly for graduate students, with undergraduate students participating as audience or volunteers.
 
-  <!-- Honors & Awards -->
-  <h2 style="margin-top: 1.5rem;">Honors & Awards</h2>
-  <ul style="margin-left: 1rem;">
-    <li>2025: University Medal for Excellence in Extracurricular Activities (Top 0.2% of students)</li>
-  </ul>
+### 5 – Strengthen scientific communication and outreach
+The ability to communicate clearly is a cornerstone of impactful research.
+- Scientific writing workshops on abstracts, CVs, and motivation letters.
+- Mini-projects such as article summary writing with peer feedback.
+- Conferences and roundtables with alumni, professors, and researchers on career pathways.
+- STEM outreach activities for high school students, including lab visits and presentations to foster early interest in research.
 
-  <!-- Projects -->
-  <h2 style="margin-top: 1.5rem;">Projects</h2>
-  <ul style="margin-left: 1rem;">
-    <li>Transcriptomic signature project (details withheld) — September 2025 – Present</li>
-    <li>Molecular Dynamics project (details withheld) — July 2025 – Present</li>
-  </ul>
-
-  <!-- Courses & Workshops -->
-  <h2 style="margin-top: 1.5rem;">Courses & Workshops</h2>
-  <ul style="margin-left: 1rem;">
-    <li>Foundations of Deep Learning for Biomedical Applications — School of Biotechnology, Nile University (online) (Aug 2025 – Oct 2025)</li>
-    <li>Next-Generation Sequencing (NGS) — RNA-Seq Data Analysis Workshop — Biocompiler (online) (Jan 2025 – Apr 2025)</li>
-    <li>Practical Molecular Dynamics Workshop — Laboratoire d’Immunologie et Biodiversité — GMB team (Casablanca, Morocco) (Jun 2025)</li>
-    <li>Introduction to Reproducibility in Cancer Informatics — Johns Hopkins University (online) (Aug 2025)</li>
-    <li>Computing for Cancer Informatics — Johns Hopkins University (online) (Aug 2025)</li>
-    <li>Introduction à la Statistique avec R — Université Paris-Saclay (online) (Feb 2025 – Apr 2025)</li>
-  </ul>
-
-  <!-- Leadership -->
-  <h2 style="margin-top: 1.5rem;">Leadership</h2>
-  <ul style="margin-left: 1rem;">
-    <li>Undergraduate Representative — Institutional Self-Evaluation Committee, Faculté des Sciences Aïn Chock (May 2025 – Aug 2025)</li>
-    <li>Environmental Cell Lead & Vice-Event Coordinator — FSAC Health Club (Sep 2024 – Jul 2025)</li>
-  </ul>
-
-  <!-- Volunteering & Outreach -->
-  <h2 style="margin-top: 1.5rem;">Volunteering & Outreach</h2>
-  <ul style="margin-left: 1rem;">
-    <li>Volunteer — Lalla Salma Foundation, Pediatric Hematology-Oncology Service (Hôpital 20 Août 1953, CHU Ibn Rochd) (Sep 2025 – Present)</li>
-    <li>Volunteer — JOOD (Sep 2024 – Present)</li>
-    <li>Citizen Science Volunteer — Zooniverse (Jan 2025 – Present)</li>
-    <li>Grant Writing Intern — Save Ancient Studies Association (SASA) (Sep 2025 – Present)</li>
-    <li>Content Writing Intern — ForgetMeNot International (Aug 2025 – Present)</li>
-  </ul>
-
-  <!-- Professional Memberships -->
-  <h2 style="margin-top: 1.5rem;">Professional Memberships</h2>
-  <ul style="margin-left: 1rem;">
-    <li>European Society for Medical Oncology (ESMO)</li>
-    <li>American Society of Clinical Oncology (ASCO)</li>
-    <li>Association for Molecular Pathology (AMP)</li>
-  </ul>
-
-  <!-- Skills -->
-  <h2 style="margin-top: 1.5rem;">Skills</h2>
-  <ul style="margin-left: 1rem;">
-    <li>Bioinformatics: Deep Learning (PyTorch), RNA-Seq, Linux, Bash, Cytoscape, Programming (R, Python), Statistics (Regression, ANOVA, Survival Analysis), Jupyter, Git/GitHub, Conda, HPC/cloud computing</li>
-    <li>Structural Biology: Docking (AutoDock Vina), Molecular Dynamics (GROMACS), PyMOL</li>
-    <li>Lab Techniques: PCR, Electrophoresis, DNA Extraction, Microbiology</li>
-    <li>Research & Communication: Meta-analysis, Scientific Writing, Presentations, Grant Writing</li>
-  </ul>
-
-
-</div>
+## Club Board
+- **President:** Omar MOUSTAFA HASSAN EL ATAL  
+- **Vice President:** Salma IREHALI  
+- **Secretary General:** Amine FKIRA  
+- **Design & Media Lead:** Hamza BOURRAKH  
+- **Human Resources Lead:** To be filled  
+- **Events Lead:** To be filled
 
